@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(230, 218, 204);
+    
+}
+
+
+img{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+#box_element{
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover{
+    color: grey;
+    text-decoration: underline;
+}
+button{
+    background-color: rgb(230, 218, 204);
+    border: none;
+}
