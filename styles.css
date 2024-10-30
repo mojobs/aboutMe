@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: rgb(230, 218, 204);
     
 }
@@ -27,4 +27,29 @@ a:hover{
 button{
     background-color: rgb(230, 218, 204);
     border: none;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.box_element{
+    width: 100%;
+    background-image: azure;
+}
+img{
+    
+
 }
